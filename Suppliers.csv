@@ -1,0 +1,101 @@
+SupplierID,SupplierName,Country,ProductCategory,LeadTimeDays,Rating
+S001,Supplier_1,Saudi Arabia,Home Appliances,16,4.9
+S002,Supplier_2,Bahrain,Electronics,15,3.9
+S003,Supplier_3,UAE,Accessories,19,4.8
+S004,Supplier_4,Kuwait,Electronics,7,4.2
+S005,Supplier_5,Saudi Arabia,Home Appliances,20,5
+S006,Supplier_6,Bahrain,Accessories,17,4.9
+S007,Supplier_7,Bahrain,Sports,10,3.9
+S008,Supplier_8,UAE,Electronics,6,4.2
+S009,Supplier_9,Saudi Arabia,Accessories,13,4.9
+S010,Supplier_10,Qatar,Accessories,11,4.5
+S011,Supplier_11,Saudi Arabia,Accessories,20,4.5
+S012,Supplier_12,Bahrain,Electronics,13,4.8
+S013,Supplier_13,Kuwait,Sports,5,4.5
+S014,Supplier_14,Bahrain,Fashion,20,4.9
+S015,Supplier_15,Bahrain,Accessories,10,3.9
+S016,Supplier_16,Qatar,Electronics,6,3.6
+S017,Supplier_17,Kuwait,Accessories,6,4.4
+S018,Supplier_18,UAE,Home Appliances,15,4.4
+S019,Supplier_19,Saudi Arabia,Home Appliances,4,4.4
+S020,Supplier_20,UAE,Fashion,16,4
+S021,Supplier_21,Qatar,Accessories,19,4.5
+S022,Supplier_22,Kuwait,Accessories,6,4.1
+S023,Supplier_23,Kuwait,Fashion,13,3.7
+S024,Supplier_24,Qatar,Accessories,18,4.5
+S025,Supplier_25,UAE,Sports,12,3.7
+S026,Supplier_26,Saudi Arabia,Sports,13,4
+S027,Supplier_27,Saudi Arabia,Home Appliances,18,4.4
+S028,Supplier_28,UAE,Fashion,12,4.6
+S029,Supplier_29,Bahrain,Electronics,13,3.7
+S030,Supplier_30,UAE,Accessories,4,4.9
+S031,Supplier_31,UAE,Fashion,15,3.9
+S032,Supplier_32,UAE,Electronics,20,4.1
+S033,Supplier_33,Bahrain,Fashion,14,4.6
+S034,Supplier_34,Bahrain,Electronics,19,4.6
+S035,Supplier_35,Qatar,Accessories,20,4.1
+S036,Supplier_36,UAE,Home Appliances,4,4.8
+S037,Supplier_37,Qatar,Fashion,8,4.4
+S038,Supplier_38,Bahrain,Fashion,12,4.8
+S039,Supplier_39,UAE,Accessories,9,4.6
+S040,Supplier_40,Saudi Arabia,Home Appliances,6,4.5
+S041,Supplier_41,UAE,Fashion,16,4.5
+S042,Supplier_42,UAE,Electronics,6,4
+S043,Supplier_43,Bahrain,Accessories,4,3.7
+S044,Supplier_44,Kuwait,Home Appliances,16,5
+S045,Supplier_45,Bahrain,Accessories,4,3.7
+S046,Supplier_46,Bahrain,Fashion,12,4.5
+S047,Supplier_47,UAE,Fashion,5,4.7
+S048,Supplier_48,Bahrain,Home Appliances,17,4.1
+S049,Supplier_49,Saudi Arabia,Electronics,5,3.7
+S050,Supplier_50,Kuwait,Accessories,3,4.4
+S051,Supplier_51,Kuwait,Fashion,11,4.5
+S052,Supplier_52,Saudi Arabia,Sports,8,4.1
+S053,Supplier_53,Bahrain,Home Appliances,7,3.6
+S054,Supplier_54,Saudi Arabia,Sports,8,4.1
+S055,Supplier_55,Saudi Arabia,Fashion,20,4.7
+S056,Supplier_56,Kuwait,Fashion,5,4.3
+S057,Supplier_57,Kuwait,Sports,6,4.6
+S058,Supplier_58,UAE,Electronics,8,4.8
+S059,Supplier_59,UAE,Electronics,20,4.2
+S060,Supplier_60,Qatar,Electronics,4,3.7
+S061,Supplier_61,UAE,Accessories,5,4.3
+S062,Supplier_62,Saudi Arabia,Electronics,6,4.3
+S063,Supplier_63,Qatar,Sports,8,4.1
+S064,Supplier_64,Saudi Arabia,Accessories,12,3.6
+S065,Supplier_65,Kuwait,Home Appliances,20,4.2
+S066,Supplier_66,Kuwait,Fashion,13,4.3
+S067,Supplier_67,Qatar,Sports,20,4.3
+S068,Supplier_68,Saudi Arabia,Electronics,10,3.6
+S069,Supplier_69,UAE,Home Appliances,9,4.9
+S070,Supplier_70,Kuwait,Sports,9,4.4
+S071,Supplier_71,Qatar,Accessories,16,3.6
+S072,Supplier_72,Qatar,Home Appliances,15,4.5
+S073,Supplier_73,UAE,Fashion,17,3.6
+S074,Supplier_74,Qatar,Fashion,7,4.3
+S075,Supplier_75,Saudi Arabia,Home Appliances,9,4.6
+S076,Supplier_76,Kuwait,Sports,8,4.1
+S077,Supplier_77,UAE,Home Appliances,16,4.1
+S078,Supplier_78,Kuwait,Accessories,5,3.9
+S079,Supplier_79,Kuwait,Electronics,20,4.1
+S080,Supplier_80,Qatar,Electronics,14,4.9
+S081,Supplier_81,Qatar,Accessories,10,3.9
+S082,Supplier_82,Saudi Arabia,Fashion,10,4.1
+S083,Supplier_83,Saudi Arabia,Electronics,8,4.3
+S084,Supplier_84,Qatar,Sports,18,3.6
+S085,Supplier_85,Qatar,Sports,12,4.3
+S086,Supplier_86,Kuwait,Electronics,4,3.8
+S087,Supplier_87,Bahrain,Accessories,14,4.7
+S088,Supplier_88,Kuwait,Sports,15,4.2
+S089,Supplier_89,UAE,Home Appliances,3,4.5
+S090,Supplier_90,UAE,Accessories,7,4.1
+S091,Supplier_91,Qatar,Electronics,14,4.6
+S092,Supplier_92,UAE,Sports,16,4.6
+S093,Supplier_93,UAE,Fashion,14,4.7
+S094,Supplier_94,Kuwait,Home Appliances,11,4.9
+S095,Supplier_95,Kuwait,Accessories,12,4.5
+S096,Supplier_96,Saudi Arabia,Home Appliances,16,4.7
+S097,Supplier_97,Saudi Arabia,Electronics,5,4.6
+S098,Supplier_98,Saudi Arabia,Accessories,4,3.6
+S099,Supplier_99,Qatar,Sports,18,4.7
+S100,Supplier_100,Saudi Arabia,Fashion,19,4.9

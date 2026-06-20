@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,Brand,UnitCost,UnitPrice
+P0001,Product_1,Home Appliances,Brand_29,2038,3017.97
+P0002,Product_2,Home Appliances,Brand_23,387,587.56
+P0003,Product_3,Home Appliances,Brand_4,600,832.78
+P0004,Product_4,Fashion,Brand_28,543,968.72
+P0005,Product_5,Home Appliances,Brand_30,1170,1705.92
+P0006,Product_6,Sports,Brand_27,1098,1819.32
+P0007,Product_7,Sports,Brand_11,1100,1607.61
+P0008,Product_8,Home Appliances,Brand_24,695,1248.73
+P0009,Product_9,Sports,Brand_28,639,1120.62
+P0010,Product_10,Fashion,Brand_2,2627,3450.18
+P0011,Product_11,Accessories,Brand_6,243,296.83
+P0012,Product_12,Accessories,Brand_23,1085,1606.1
+P0013,Product_13,Fashion,Brand_2,495,725.13
+P0014,Product_14,Sports,Brand_16,2924,4311.89
+P0015,Product_15,Accessories,Brand_4,480,676.69
+P0016,Product_16,Home Appliances,Brand_6,854,1452.63
+P0017,Product_17,Home Appliances,Brand_19,2103,3647.73
+P0018,Product_18,Accessories,Brand_19,2418,4349.51
+P0019,Product_19,Sports,Brand_25,36,55.53
+P0020,Product_20,Electronics,Brand_8,1725,2865.14
+P0021,Product_21,Electronics,Brand_29,2792,3900.97
+P0022,Product_22,Electronics,Brand_13,1184,1686.18
+P0023,Product_23,Home Appliances,Brand_5,454,552.67
+P0024,Product_24,Fashion,Brand_15,1905,3004.21
+P0025,Product_25,Sports,Brand_22,1123,1351.51
+P0026,Product_26,Sports,Brand_15,199,277.59
+P0027,Product_27,Accessories,Brand_7,2351,4038.94
+P0028,Product_28,Home Appliances,Brand_11,2656,4459.13
+P0029,Product_29,Sports,Brand_20,309,441.51
+P0030,Product_30,Home Appliances,Brand_6,1653,2221.71
+P0031,Product_31,Electronics,Brand_1,1653,2828.96
+P0032,Product_32,Fashion,Brand_25,687,990.27
+P0033,Product_33,Accessories,Brand_4,2670,3682.27
+P0034,Product_34,Home Appliances,Brand_29,1790,2883.65
+P0035,Product_35,Home Appliances,Brand_22,557,700.52
+P0036,Product_36,Sports,Brand_7,1525,2278.01
+P0037,Product_37,Fashion,Brand_9,1609,2474.38
+P0038,Product_38,Electronics,Brand_25,1752,2546.57
+P0039,Product_39,Sports,Brand_6,1528,2231.59
+P0040,Product_40,Electronics,Brand_2,1764,2660.12
+P0041,Product_41,Accessories,Brand_21,1918,3091.32
+P0042,Product_42,Fashion,Brand_17,655,1033.42
+P0043,Product_43,Electronics,Brand_10,2169,3212.14
+P0044,Product_44,Fashion,Brand_10,344,443.47
+P0045,Product_45,Home Appliances,Brand_27,543,732.61
+P0046,Product_46,Home Appliances,Brand_19,1771,2175.92
+P0047,Product_47,Electronics,Brand_17,333,421.1
+P0048,Product_48,Fashion,Brand_4,1760,2602.68
+P0049,Product_49,Sports,Brand_27,2970,4015.52
+P0050,Product_50,Sports,Brand_3,1063,1765.84
+P0051,Product_51,Electronics,Brand_24,86,137.34
+P0052,Product_52,Accessories,Brand_27,755,1084.01
+P0053,Product_53,Fashion,Brand_29,361,585.77
+P0054,Product_54,Sports,Brand_24,1305,1922.26
+P0055,Product_55,Fashion,Brand_20,2765,4658.2
+P0056,Product_56,Accessories,Brand_7,1418,1859.07
+P0057,Product_57,Home Appliances,Brand_28,2494,4000.49
+P0058,Product_58,Sports,Brand_1,1796,2161.5
+P0059,Product_59,Electronics,Brand_6,497,791.96
+P0060,Product_60,Fashion,Brand_28,1904,3036.18
+P0061,Product_61,Fashion,Brand_10,2485,3904.18
+P0062,Product_62,Home Appliances,Brand_23,2546,4084.5
+P0063,Product_63,Fashion,Brand_26,2847,3933.4
+P0064,Product_64,Accessories,Brand_1,532,699.3
+P0065,Product_65,Accessories,Brand_28,85,103.37
+P0066,Product_66,Accessories,Brand_21,1990,2676.69
+P0067,Product_67,Sports,Brand_7,2584,3234.28
+P0068,Product_68,Accessories,Brand_16,1918,2787.1
+P0069,Product_69,Accessories,Brand_29,497,641.85
+P0070,Product_70,Fashion,Brand_16,2897,4295.94
+P0071,Product_71,Sports,Brand_8,1861,2458.01
+P0072,Product_72,Fashion,Brand_2,2352,3293.53
+P0073,Product_73,Fashion,Brand_14,440,752.03
+P0074,Product_74,Sports,Brand_24,2390,3662.87
+P0075,Product_75,Electronics,Brand_16,1211,1743.61
+P0076,Product_76,Sports,Brand_24,2122,3324.96
+P0077,Product_77,Fashion,Brand_8,2799,4558.38
+P0078,Product_78,Electronics,Brand_14,2183,3374.57
+P0079,Product_79,Electronics,Brand_9,2286,3967.87
+P0080,Product_80,Fashion,Brand_4,1728,2586.6
+P0081,Product_81,Home Appliances,Brand_15,2666,4314.94
+P0082,Product_82,Accessories,Brand_10,105,171.75
+P0083,Product_83,Home Appliances,Brand_15,1942,2600.85
+P0084,Product_84,Sports,Brand_30,919,1480.49
+P0085,Product_85,Fashion,Brand_5,2486,4300.54
+P0086,Product_86,Fashion,Brand_14,2981,5067.25
+P0087,Product_87,Home Appliances,Brand_26,2777,4119.39
+P0088,Product_88,Sports,Brand_7,683,935.35
+P0089,Product_89,Fashion,Brand_5,373,486.38
+P0090,Product_90,Sports,Brand_16,660,831.96
+P0091,Product_91,Fashion,Brand_10,1723,2310.25
+P0092,Product_92,Electronics,Brand_1,2300,3255.13
+P0093,Product_93,Home Appliances,Brand_22,1088,1409.14
+P0094,Product_94,Electronics,Brand_26,2082,2577.93
+P0095,Product_95,Electronics,Brand_20,1783,2382.11
+P0096,Product_96,Accessories,Brand_16,2321,3144.24
+P0097,Product_97,Home Appliances,Brand_25,1413,1735.17
+P0098,Product_98,Home Appliances,Brand_29,2301,2969.92
+P0099,Product_99,Sports,Brand_20,2846,4558.41
+P0100,Product_100,Electronics,Brand_30,2913,5149.49
+P0101,Product_101,Electronics,Brand_4,1892,3157.73
+P0102,Product_102,Electronics,Brand_27,2517,3869.85
+P0103,Product_103,Electronics,Brand_6,2097,3308.97
+P0104,Product_104,Home Appliances,Brand_6,861,1409.47
+P0105,Product_105,Fashion,Brand_25,2920,4390.33
+P0106,Product_106,Accessories,Brand_21,426,604.17
+P0107,Product_107,Electronics,Brand_28,584,771.54
+P0108,Product_108,Electronics,Brand_8,1722,2928.93
+P0109,Product_109,Home Appliances,Brand_10,1960,2945.91
+P0110,Product_110,Home Appliances,Brand_12,369,601.15
+P0111,Product_111,Home Appliances,Brand_21,1719,2748.68
+P0112,Product_112,Sports,Brand_14,640,1070.29
+P0113,Product_113,Fashion,Brand_14,585,1024.23
+P0114,Product_114,Sports,Brand_26,1899,3056.1
+P0115,Product_115,Fashion,Brand_5,141,234.35
+P0116,Product_116,Sports,Brand_3,2959,3701.32
+P0117,Product_117,Fashion,Brand_25,1309,1699.86
+P0118,Product_118,Fashion,Brand_25,271,331.23
+P0119,Product_119,Accessories,Brand_29,2647,4088.91
+P0120,Product_120,Sports,Brand_10,2607,3784.28
+P0121,Product_121,Sports,Brand_28,2808,3882.32
+P0122,Product_122,Home Appliances,Brand_1,1304,2211.85
+P0123,Product_123,Sports,Brand_30,2181,2809.38
+P0124,Product_124,Fashion,Brand_21,1674,2214.84
+P0125,Product_125,Sports,Brand_26,2249,3532.98
+P0126,Product_126,Home Appliances,Brand_29,1831,3089.08
+P0127,Product_127,Fashion,Brand_25,2677,3529.3
+P0128,Product_128,Electronics,Brand_2,1255,1910.69
+P0129,Product_129,Accessories,Brand_17,1617,2902.76
+P0130,Product_130,Accessories,Brand_3,1182,1781.28
+P0131,Product_131,Sports,Brand_11,1298,2147.19
+P0132,Product_132,Electronics,Brand_1,675,1170.58
+P0133,Product_133,Sports,Brand_9,2231,3000.26
+P0134,Product_134,Fashion,Brand_17,1264,1600.56
+P0135,Product_135,Home Appliances,Brand_9,265,417.69
+P0136,Product_136,Electronics,Brand_2,1471,2432.94
+P0137,Product_137,Fashion,Brand_10,530,818.03
+P0138,Product_138,Fashion,Brand_11,41,73.38
+P0139,Product_139,Sports,Brand_23,2402,4171.32
+P0140,Product_140,Sports,Brand_28,2591,4035.04
+P0141,Product_141,Home Appliances,Brand_10,1454,2326.62
+P0142,Product_142,Sports,Brand_22,2948,3785.18
+P0143,Product_143,Sports,Brand_24,1566,2111.88
+P0144,Product_144,Sports,Brand_19,1362,1791.76
+P0145,Product_145,Fashion,Brand_4,1499,1930.61
+P0146,Product_146,Fashion,Brand_3,1763,2213.18
+P0147,Product_147,Accessories,Brand_16,1760,2338.81
+P0148,Product_148,Home Appliances,Brand_22,339,513.84
+P0149,Product_149,Sports,Brand_17,2429,4049.86
+P0150,Product_150,Sports,Brand_16,1100,1740.06
+P0151,Product_151,Fashion,Brand_24,1822,3250.38
+P0152,Product_152,Accessories,Brand_17,687,876.8
+P0153,Product_153,Fashion,Brand_5,2932,5221.36
+P0154,Product_154,Sports,Brand_4,2122,3430.6
+P0155,Product_155,Fashion,Brand_2,1885,3106.29
+P0156,Product_156,Home Appliances,Brand_30,2309,4089.45
+P0157,Product_157,Fashion,Brand_4,2484,3160.94
+P0158,Product_158,Home Appliances,Brand_2,2361,3573.77
+P0159,Product_159,Home Appliances,Brand_10,502,900.9
+P0160,Product_160,Home Appliances,Brand_16,1262,1535.58
+P0161,Product_161,Accessories,Brand_26,605,940.03
+P0162,Product_162,Home Appliances,Brand_29,219,300.05
+P0163,Product_163,Fashion,Brand_1,769,979.24
+P0164,Product_164,Electronics,Brand_28,1448,1776.42
+P0165,Product_165,Sports,Brand_10,1990,3063.52
+P0166,Product_166,Fashion,Brand_16,1403,2386.05
+P0167,Product_167,Accessories,Brand_25,2500,3207.78
+P0168,Product_168,Fashion,Brand_25,2626,3860.11
+P0169,Product_169,Accessories,Brand_28,1859,3042.66
+P0170,Product_170,Sports,Brand_22,385,606.05
+P0171,Product_171,Accessories,Brand_29,1606,2308.2
+P0172,Product_172,Electronics,Brand_22,2235,3875.55
+P0173,Product_173,Electronics,Brand_28,1156,1502.07
+P0174,Product_174,Sports,Brand_21,121,203
+P0175,Product_175,Home Appliances,Brand_18,2917,4629.56
+P0176,Product_176,Sports,Brand_3,2657,3495.17
+P0177,Product_177,Sports,Brand_19,2554,4225.77
+P0178,Product_178,Sports,Brand_7,2355,3886.54
+P0179,Product_179,Electronics,Brand_4,2078,3314.31
+P0180,Product_180,Accessories,Brand_1,2198,3000.22
+P0181,Product_181,Accessories,Brand_27,862,1399.35
+P0182,Product_182,Fashion,Brand_3,2393,4030.18
+P0183,Product_183,Home Appliances,Brand_13,2505,3891.11
+P0184,Product_184,Electronics,Brand_11,2033,2972.67
+P0185,Product_185,Electronics,Brand_28,1719,2607.28
+P0186,Product_186,Home Appliances,Brand_3,1584,2009.76
+P0187,Product_187,Sports,Brand_6,426,584.14
+P0188,Product_188,Home Appliances,Brand_25,768,962.9
+P0189,Product_189,Fashion,Brand_22,1276,1660.73
+P0190,Product_190,Home Appliances,Brand_6,2536,3084.54
+P0191,Product_191,Home Appliances,Brand_13,259,326.14
+P0192,Product_192,Fashion,Brand_29,603,840.9
+P0193,Product_193,Electronics,Brand_2,1558,2058.95
+P0194,Product_194,Sports,Brand_8,2465,3687.12
+P0195,Product_195,Fashion,Brand_4,2086,2840.24
+P0196,Product_196,Fashion,Brand_18,1323,1910.74
+P0197,Product_197,Electronics,Brand_14,2003,3164.99
+P0198,Product_198,Home Appliances,Brand_18,96,170.7
+P0199,Product_199,Electronics,Brand_8,2785,4616.94
+P0200,Product_200,Accessories,Brand_10,2688,4142.07
+P0201,Product_201,Electronics,Brand_28,1846,2919.41
+P0202,Product_202,Accessories,Brand_12,853,1300.2
+P0203,Product_203,Accessories,Brand_18,708,1254.27
+P0204,Product_204,Fashion,Brand_2,2293,2752.98
+P0205,Product_205,Sports,Brand_10,1923,3061.1
+P0206,Product_206,Electronics,Brand_2,705,1240.87
+P0207,Product_207,Home Appliances,Brand_20,1995,2694.31
+P0208,Product_208,Fashion,Brand_12,2805,4783.82
+P0209,Product_209,Sports,Brand_27,891,1342.02
+P0210,Product_210,Accessories,Brand_24,206,313.21
+P0211,Product_211,Home Appliances,Brand_3,306,439.78
+P0212,Product_212,Accessories,Brand_24,523,802.22
+P0213,Product_213,Fashion,Brand_7,1164,1823.14
+P0214,Product_214,Home Appliances,Brand_21,1323,1795.07
+P0215,Product_215,Fashion,Brand_9,2918,3932.17
+P0216,Product_216,Home Appliances,Brand_7,1337,1973.25
+P0217,Product_217,Home Appliances,Brand_1,2475,4327.32
+P0218,Product_218,Electronics,Brand_20,567,842.52
+P0219,Product_219,Accessories,Brand_14,59,90.47
+P0220,Product_220,Fashion,Brand_25,2872,4123.26
+P0221,Product_221,Electronics,Brand_18,352,428.94
+P0222,Product_222,Fashion,Brand_22,2770,3529.12
+P0223,Product_223,Sports,Brand_12,1561,2235.43
+P0224,Product_224,Electronics,Brand_4,2875,4248.14
+P0225,Product_225,Fashion,Brand_1,810,1079.66
+P0226,Product_226,Home Appliances,Brand_22,101,177.04
+P0227,Product_227,Accessories,Brand_3,1485,2509.31
+P0228,Product_228,Home Appliances,Brand_26,2580,4207.17
+P0229,Product_229,Fashion,Brand_12,979,1196.41
+P0230,Product_230,Sports,Brand_7,2038,2454.33
+P0231,Product_231,Fashion,Brand_4,2635,4537.34
+P0232,Product_232,Sports,Brand_16,2351,3061.67
+P0233,Product_233,Sports,Brand_22,813,1308.47
+P0234,Product_234,Accessories,Brand_3,2334,3624.47
+P0235,Product_235,Accessories,Brand_9,286,503.4
+P0236,Product_236,Sports,Brand_24,953,1590.89
+P0237,Product_237,Electronics,Brand_23,805,1293.35
+P0238,Product_238,Home Appliances,Brand_22,2536,3895.47
+P0239,Product_239,Electronics,Brand_14,1879,2977.43
+P0240,Product_240,Electronics,Brand_28,2682,4729.05
+P0241,Product_241,Fashion,Brand_9,1791,2280
+P0242,Product_242,Fashion,Brand_16,2142,3034.96
+P0243,Product_243,Accessories,Brand_2,198,270.62
+P0244,Product_244,Sports,Brand_15,1740,2418.16
+P0245,Product_245,Accessories,Brand_11,1625,2029.76
+P0246,Product_246,Electronics,Brand_24,2362,3154.16
+P0247,Product_247,Fashion,Brand_3,2844,4977.56
+P0248,Product_248,Accessories,Brand_11,826,1145.24
+P0249,Product_249,Electronics,Brand_1,2584,3844.94
+P0250,Product_250,Sports,Brand_26,118,185.94
+P0251,Product_251,Home Appliances,Brand_8,1389,1756.67
+P0252,Product_252,Home Appliances,Brand_27,996,1227.73
+P0253,Product_253,Sports,Brand_26,1386,1860.08
+P0254,Product_254,Sports,Brand_20,318,465.27
+P0255,Product_255,Fashion,Brand_19,411,523.98
+P0256,Product_256,Electronics,Brand_13,268,371.98
+P0257,Product_257,Electronics,Brand_26,2860,3650.85
+P0258,Product_258,Electronics,Brand_10,1830,2866.59
+P0259,Product_259,Electronics,Brand_4,1788,2872.49
+P0260,Product_260,Electronics,Brand_10,2310,3950
+P0261,Product_261,Electronics,Brand_20,1665,2749.21
+P0262,Product_262,Sports,Brand_26,974,1554.34
+P0263,Product_263,Fashion,Brand_13,63,93.15
+P0264,Product_264,Sports,Brand_20,1773,2235.34
+P0265,Product_265,Electronics,Brand_15,2686,4056.74
+P0266,Product_266,Accessories,Brand_4,2427,3061.94
+P0267,Product_267,Electronics,Brand_19,2457,4112.16
+P0268,Product_268,Sports,Brand_5,813,1286.51
+P0269,Product_269,Home Appliances,Brand_14,1069,1591.57
+P0270,Product_270,Fashion,Brand_6,2563,3449.52
+P0271,Product_271,Electronics,Brand_5,200,277.4
+P0272,Product_272,Sports,Brand_21,1805,2982.99
+P0273,Product_273,Sports,Brand_29,1294,1972.94
+P0274,Product_274,Accessories,Brand_16,616,853.29
+P0275,Product_275,Home Appliances,Brand_12,1424,2537.8
+P0276,Product_276,Sports,Brand_22,2140,3438.94
+P0277,Product_277,Accessories,Brand_17,254,429.64
+P0278,Product_278,Electronics,Brand_14,2311,3249.94
+P0279,Product_279,Accessories,Brand_26,840,1042.48
+P0280,Product_280,Fashion,Brand_23,795,1284.01
+P0281,Product_281,Sports,Brand_23,1934,2705.06
+P0282,Product_282,Sports,Brand_11,2389,3749.92
+P0283,Product_283,Home Appliances,Brand_6,1734,2189.88
+P0284,Product_284,Fashion,Brand_8,192,336.38
+P0285,Product_285,Accessories,Brand_23,2636,3527.4
+P0286,Product_286,Accessories,Brand_8,2575,3832.75
+P0287,Product_287,Fashion,Brand_7,1377,1983.14
+P0288,Product_288,Home Appliances,Brand_1,47,58.48
+P0289,Product_289,Sports,Brand_4,142,182.53
+P0290,Product_290,Accessories,Brand_21,1823,2828.22
+P0291,Product_291,Electronics,Brand_1,1494,1971.29
+P0292,Product_292,Accessories,Brand_8,1183,2048.04
+P0293,Product_293,Accessories,Brand_11,2964,5064.05
+P0294,Product_294,Accessories,Brand_7,1027,1245.64
+P0295,Product_295,Electronics,Brand_1,1092,1855.16
+P0296,Product_296,Fashion,Brand_21,582,973.36
+P0297,Product_297,Home Appliances,Brand_30,474,628.59
+P0298,Product_298,Accessories,Brand_12,1888,3182.59
+P0299,Product_299,Accessories,Brand_17,2727,4871.13
+P0300,Product_300,Fashion,Brand_29,2572,4183.53
+P0301,Product_301,Accessories,Brand_29,505,886.02
+P0302,Product_302,Accessories,Brand_18,796,1135.83
+P0303,Product_303,Home Appliances,Brand_20,1552,2262.39
+P0304,Product_304,Accessories,Brand_30,2625,3222.76
+P0305,Product_305,Sports,Brand_7,2543,4355.3
+P0306,Product_306,Accessories,Brand_11,1224,1650.32
+P0307,Product_307,Home Appliances,Brand_28,2598,3314.72
+P0308,Product_308,Sports,Brand_29,2101,3137.62
+P0309,Product_309,Electronics,Brand_26,2999,4445.72
+P0310,Product_310,Sports,Brand_3,2737,3559.36
+P0311,Product_311,Sports,Brand_12,1609,2412.14
+P0312,Product_312,Accessories,Brand_11,1921,3126.41
+P0313,Product_313,Fashion,Brand_23,2172,3851.94
+P0314,Product_314,Home Appliances,Brand_19,1960,2823.51
+P0315,Product_315,Electronics,Brand_7,2411,3210.77
+P0316,Product_316,Fashion,Brand_28,851,1140.88
+P0317,Product_317,Home Appliances,Brand_14,915,1585.9
+P0318,Product_318,Accessories,Brand_30,2360,4024.88
+P0319,Product_319,Sports,Brand_3,1062,1360
+P0320,Product_320,Home Appliances,Brand_15,364,550.11
+P0321,Product_321,Sports,Brand_2,962,1422.94
+P0322,Product_322,Home Appliances,Brand_14,2564,3770.85
+P0323,Product_323,Fashion,Brand_12,1791,3013.72
+P0324,Product_324,Home Appliances,Brand_13,1318,1601.15
+P0325,Product_325,Accessories,Brand_9,1829,2903.01
+P0326,Product_326,Electronics,Brand_10,1490,2541.29
+P0327,Product_327,Sports,Brand_21,2120,2643.42
+P0328,Product_328,Accessories,Brand_4,1152,1464.37
+P0329,Product_329,Electronics,Brand_18,1495,1973.68
+P0330,Product_330,Home Appliances,Brand_9,825,1139.84
+P0331,Product_331,Home Appliances,Brand_7,2819,4576.32
+P0332,Product_332,Sports,Brand_30,584,792.3
+P0333,Product_333,Home Appliances,Brand_27,1246,1754.34
+P0334,Product_334,Fashion,Brand_27,1674,2591.31
+P0335,Product_335,Electronics,Brand_16,2704,4306
+P0336,Product_336,Fashion,Brand_8,631,843.11
+P0337,Product_337,Fashion,Brand_8,879,1326.85
+P0338,Product_338,Fashion,Brand_24,2283,3855.16
+P0339,Product_339,Electronics,Brand_11,1415,2416.09
+P0340,Product_340,Fashion,Brand_7,1776,2598.66
+P0341,Product_341,Electronics,Brand_12,2307,2960.73
+P0342,Product_342,Home Appliances,Brand_24,545,657.17
+P0343,Product_343,Home Appliances,Brand_11,2718,3629.33
+P0344,Product_344,Fashion,Brand_25,1763,2939.25
+P0345,Product_345,Home Appliances,Brand_11,2222,3448.93
+P0346,Product_346,Electronics,Brand_30,2344,3008.48
+P0347,Product_347,Sports,Brand_21,1372,2304.26
+P0348,Product_348,Sports,Brand_28,2509,3599.24
+P0349,Product_349,Accessories,Brand_13,1581,1957.63
+P0350,Product_350,Accessories,Brand_16,1602,2026.82
+P0351,Product_351,Fashion,Brand_21,2352,4085.06
+P0352,Product_352,Accessories,Brand_4,401,643.58
+P0353,Product_353,Electronics,Brand_27,747,1205.22
+P0354,Product_354,Electronics,Brand_6,2021,2666.51
+P0355,Product_355,Home Appliances,Brand_7,1600,2143.72
+P0356,Product_356,Sports,Brand_3,2721,4007.48
+P0357,Product_357,Sports,Brand_1,1529,1992.43
+P0358,Product_358,Fashion,Brand_6,1702,3052.97
+P0359,Product_359,Sports,Brand_14,548,814.85
+P0360,Product_360,Fashion,Brand_29,301,517.55
+P0361,Product_361,Accessories,Brand_10,552,805.54
+P0362,Product_362,Fashion,Brand_6,2926,4571.07
+P0363,Product_363,Sports,Brand_7,1291,1938.42
+P0364,Product_364,Fashion,Brand_9,2825,3731.89
+P0365,Product_365,Fashion,Brand_3,604,1023.63
+P0366,Product_366,Accessories,Brand_17,2497,3489.15
+P0367,Product_367,Fashion,Brand_15,2351,3473.88
+P0368,Product_368,Electronics,Brand_10,180,285.8
+P0369,Product_369,Home Appliances,Brand_23,1889,3221.85
+P0370,Product_370,Fashion,Brand_20,1238,2097.24
+P0371,Product_371,Fashion,Brand_8,737,963.81
+P0372,Product_372,Fashion,Brand_15,2550,3648.54
+P0373,Product_373,Accessories,Brand_23,2719,4190.44
+P0374,Product_374,Electronics,Brand_8,1631,2823.79
+P0375,Product_375,Home Appliances,Brand_29,666,1050.18
+P0376,Product_376,Electronics,Brand_23,1215,1987.65
+P0377,Product_377,Fashion,Brand_14,909,1632.05
+P0378,Product_378,Electronics,Brand_12,2284,2845.68
+P0379,Product_379,Sports,Brand_25,450,750.47
+P0380,Product_380,Fashion,Brand_6,1699,2296.47
+P0381,Product_381,Electronics,Brand_15,2092,2543.94
+P0382,Product_382,Fashion,Brand_13,2636,3706.73
+P0383,Product_383,Accessories,Brand_13,1655,2023.51
+P0384,Product_384,Electronics,Brand_23,1046,1830.8
+P0385,Product_385,Fashion,Brand_16,1359,2006.99
+P0386,Product_386,Sports,Brand_22,358,481.64
+P0387,Product_387,Accessories,Brand_16,1812,3066.37
+P0388,Product_388,Accessories,Brand_27,680,823.37
+P0389,Product_389,Accessories,Brand_10,431,549.31
+P0390,Product_390,Accessories,Brand_3,1620,2596.59
+P0391,Product_391,Home Appliances,Brand_5,65,95.19
+P0392,Product_392,Accessories,Brand_23,748,913.06
+P0393,Product_393,Sports,Brand_7,2784,4079.21
+P0394,Product_394,Sports,Brand_21,215,343.47
+P0395,Product_395,Electronics,Brand_13,2723,4395.49
+P0396,Product_396,Electronics,Brand_20,1838,2210.75
+P0397,Product_397,Accessories,Brand_30,1565,2112.47
+P0398,Product_398,Accessories,Brand_3,997,1205.99
+P0399,Product_399,Electronics,Brand_11,134,226.77
+P0400,Product_400,Electronics,Brand_8,2805,4979.57
+P0401,Product_401,Accessories,Brand_24,415,539.59
+P0402,Product_402,Sports,Brand_4,1722,2909.1
+P0403,Product_403,Sports,Brand_21,1341,1761.71
+P0404,Product_404,Sports,Brand_13,868,1530.59
+P0405,Product_405,Accessories,Brand_7,514,649.46
+P0406,Product_406,Accessories,Brand_1,1344,1937.09
+P0407,Product_407,Electronics,Brand_13,1315,1745.87
+P0408,Product_408,Electronics,Brand_22,921,1555.62
+P0409,Product_409,Sports,Brand_12,2682,3289.11
+P0410,Product_410,Fashion,Brand_10,915,1519.38
+P0411,Product_411,Electronics,Brand_23,2066,3143.85
+P0412,Product_412,Accessories,Brand_9,2351,4174.01
+P0413,Product_413,Home Appliances,Brand_21,2477,4007.26
+P0414,Product_414,Accessories,Brand_11,2796,3649.34
+P0415,Product_415,Home Appliances,Brand_28,2836,4537.1
+P0416,Product_416,Home Appliances,Brand_1,296,463.28
+P0417,Product_417,Fashion,Brand_13,2416,3639.98
+P0418,Product_418,Sports,Brand_19,972,1577.34
+P0419,Product_419,Accessories,Brand_1,74,116.17
+P0420,Product_420,Home Appliances,Brand_8,528,867.37
+P0421,Product_421,Sports,Brand_3,1017,1256.97
+P0422,Product_422,Fashion,Brand_10,1554,2053.16
+P0423,Product_423,Accessories,Brand_21,1559,1906.26
+P0424,Product_424,Sports,Brand_15,2990,4914.22
+P0425,Product_425,Accessories,Brand_9,1366,1899.45
+P0426,Product_426,Sports,Brand_26,182,325.15
+P0427,Product_427,Home Appliances,Brand_25,2674,3246.81
+P0428,Product_428,Home Appliances,Brand_8,1376,1821.12
+P0429,Product_429,Accessories,Brand_26,241,388.59
+P0430,Product_430,Accessories,Brand_20,2967,5113.99
+P0431,Product_431,Home Appliances,Brand_6,2155,3157.97
+P0432,Product_432,Electronics,Brand_28,44,65.78
+P0433,Product_433,Electronics,Brand_21,808,1450.53
+P0434,Product_434,Accessories,Brand_3,856,1116.4
+P0435,Product_435,Accessories,Brand_8,2268,3412.1
+P0436,Product_436,Fashion,Brand_10,1765,2291.84
+P0437,Product_437,Accessories,Brand_14,829,1082.56
+P0438,Product_438,Home Appliances,Brand_10,1039,1606.14
+P0439,Product_439,Accessories,Brand_9,2623,4504.89
+P0440,Product_440,Electronics,Brand_12,1990,2863.5
+P0441,Product_441,Fashion,Brand_15,707,1027.71
+P0442,Product_442,Fashion,Brand_25,2516,3254.51
+P0443,Product_443,Electronics,Brand_25,1994,2849.13
+P0444,Product_444,Home Appliances,Brand_20,360,548.03
+P0445,Product_445,Accessories,Brand_9,2284,3262.17
+P0446,Product_446,Fashion,Brand_10,1272,1812.71
+P0447,Product_447,Fashion,Brand_3,2502,3502.65
+P0448,Product_448,Fashion,Brand_7,2948,3811.28
+P0449,Product_449,Electronics,Brand_1,796,1366.73
+P0450,Product_450,Home Appliances,Brand_16,2991,4315.21
+P0451,Product_451,Fashion,Brand_24,1723,2453.36
+P0452,Product_452,Home Appliances,Brand_21,2025,3629.84
+P0453,Product_453,Fashion,Brand_29,311,380.45
+P0454,Product_454,Fashion,Brand_30,529,814.32
+P0455,Product_455,Fashion,Brand_9,815,1355.15
+P0456,Product_456,Home Appliances,Brand_17,2978,4840.67
+P0457,Product_457,Home Appliances,Brand_23,2620,3234.71
+P0458,Product_458,Fashion,Brand_24,1598,2154.22
+P0459,Product_459,Electronics,Brand_30,1976,3335.24
+P0460,Product_460,Electronics,Brand_23,2604,4164.85
+P0461,Product_461,Home Appliances,Brand_20,625,920.8
+P0462,Product_462,Accessories,Brand_9,2809,3787.79
+P0463,Product_463,Accessories,Brand_1,2388,3032.85
+P0464,Product_464,Fashion,Brand_13,398,646.21
+P0465,Product_465,Sports,Brand_30,349,458.34
+P0466,Product_466,Accessories,Brand_27,1752,2551.13
+P0467,Product_467,Home Appliances,Brand_17,2853,5080.08
+P0468,Product_468,Fashion,Brand_19,2717,3762.47
+P0469,Product_469,Electronics,Brand_4,1705,2696.81
+P0470,Product_470,Accessories,Brand_9,1430,2358.41
+P0471,Product_471,Home Appliances,Brand_1,1650,2957.16
+P0472,Product_472,Electronics,Brand_4,2034,2526.03
+P0473,Product_473,Fashion,Brand_17,2872,4164.7
+P0474,Product_474,Fashion,Brand_6,1201,1568.31
+P0475,Product_475,Accessories,Brand_7,783,1168.14
+P0476,Product_476,Electronics,Brand_15,2078,3200.65
+P0477,Product_477,Accessories,Brand_7,890,1099.5
+P0478,Product_478,Accessories,Brand_9,768,1374.54
+P0479,Product_479,Fashion,Brand_21,1694,2960.74
+P0480,Product_480,Accessories,Brand_3,467,642.53
+P0481,Product_481,Electronics,Brand_9,1567,1940.82
+P0482,Product_482,Sports,Brand_8,141,209.63
+P0483,Product_483,Electronics,Brand_1,2775,3431.66
+P0484,Product_484,Sports,Brand_26,49,87.84
+P0485,Product_485,Accessories,Brand_17,416,696.83
+P0486,Product_486,Sports,Brand_17,1558,2792.15
+P0487,Product_487,Fashion,Brand_16,1108,1832.79
+P0488,Product_488,Fashion,Brand_11,2495,3549.07
+P0489,Product_489,Home Appliances,Brand_27,1425,1914.86
+P0490,Product_490,Fashion,Brand_13,1499,2348.16
+P0491,Product_491,Home Appliances,Brand_26,1478,1862.44
+P0492,Product_492,Fashion,Brand_24,1891,3217.07
+P0493,Product_493,Electronics,Brand_20,588,748.96
+P0494,Product_494,Home Appliances,Brand_23,2193,3620.34
+P0495,Product_495,Home Appliances,Brand_15,1038,1630.71
+P0496,Product_496,Fashion,Brand_17,2718,3935.33
+P0497,Product_497,Electronics,Brand_21,789,1400.1
+P0498,Product_498,Electronics,Brand_21,1339,1896.19
+P0499,Product_499,Home Appliances,Brand_22,207,303.58
+P0500,Product_500,Fashion,Brand_13,2505,4117.02
