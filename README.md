@@ -32,7 +32,7 @@ A comprehensive Power BI analytics solution designed to evaluate sales performan
 <img width="1070" height="640" alt="image" src="https://github.com/user-attachments/assets/a409a558-59e0-4ac3-81e5-9fb8ed16f9a2" />
 
 ### Dashboard 2
-https://github.com/yourusername/project-assets/blob/main/dashboard2.png
+<img width="1070" height="639" alt="image" src="https://github.com/user-attachments/assets/05a7e507-0412-4788-82fd-a33d966a1477" />
 
 ## 🚨 Business Problems
 - Supplier Risk Exposure
