@@ -29,8 +29,8 @@ A comprehensive Power BI analytics solution designed to evaluate sales performan
 
 ## 📷 Dashboard Screenshots
 ### Dashboard 1
-[https://github.com/yourusername/project-assets/blob/main/dashboard1.png
-](https://github.com/AymenAli-Analyst/NEXUS360-Sales-Profitability-Supply-Chain-Intelligence/blob/main/dsh%201.png?raw=true)
+<img width="1070" height="640" alt="image" src="https://github.com/user-attachments/assets/a409a558-59e0-4ac3-81e5-9fb8ed16f9a2" />
+
 ### Dashboard 2
 https://github.com/yourusername/project-assets/blob/main/dashboard2.png
 
