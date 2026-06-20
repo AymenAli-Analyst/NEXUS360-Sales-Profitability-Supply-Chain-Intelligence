@@ -1,0 +1,2 @@
+# NEXUS360-Sales-Profitability-Supply-Chain-Intelligence
+NEXUS360 is an advanced Power BI analytics solution that combines Sales, Profitability, Regional Performance, and Supply Chain Risk Management into a single executive dashboard. The project delivers actionable insights on revenue growth, supplier performance, operational efficiency, and strategic opportunities to support data-driven business decisi
